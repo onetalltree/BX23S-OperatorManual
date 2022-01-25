@@ -1,0 +1,1220 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20170609185224+09'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20170609184830+09'00'
+PdfID0: e98dbc2929fb924390446d319814bec6
+PdfID1: 4590ade8580aa247a8ccee7e2d8e07c0
+NumberOfPages: 178
+BookmarkBegin
+BookmarkTitle: INDEX
+BookmarkLevel: 1
+BookmarkPageNumber: 173
+
+BookmarkBegin
+BookmarkTitle: GENERAL
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+
+BookmarkBegin
+BookmarkTitle: 1703-0357_K2892-7121-3
+BookmarkLevel: 2
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: ABBREVIATION LIST
+BookmarkLevel: 2
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: UNIVERSAL SYMBOLS
+BookmarkLevel: 2
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: FOREWORD
+BookmarkLevel: 2
+BookmarkPageNumber: 4
+
+BookmarkBegin
+BookmarkTitle: BX23S
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: CONTENTS
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle:  SAFE OPERATION
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle:  SERVICING OF TRACTOR, LOADER, AND BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle:  DEALER SERVICE
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1. Warranty of the tractor
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 2. Scrapping the tractor and its procedure
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle:  SPECIFICATIONS OF THE TRACTOR
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle:  SPECIFICATION TABLE OF THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle:  TRAVELING SPEEDS TABLE
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle:  SPECIFICATIONS OF THE LOADER
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle:  LOADER SPECIFICATIONS TABLE
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle:  BUCKET SPECIFICATIONS TABLE
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle:  DIMENSIONAL SPECIFICATIONS OF THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle:  OPERATIONAL SPECIFICATIONS OF THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle:  LOADER TERMINOLOGY
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle:  SPECIFICATIONS OF THE BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle:  BACKHOE SPECIFICATIONS
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 1. Dimensions of the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 2. Specifications table of the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 3. Lift capacity of the backhoe (per SAE J31)
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle:  BACKHOE TERMINOLOGY
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle:  IMPLEMENT LIMITATIONS
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle:  IMPLEMENT LIMITATION TABLES
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle:  INSTRUMENT PANEL AND CONTROLS
+BookmarkLevel: 2
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle:  INSTRUMENT PANEL, SWITCHES, AND HAND CONTROLS
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 1. Key switch
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 2. Tilt lever
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 3. Head light switch
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 4. Hazard light switch
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 5. Turn signal light switch
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 6. Hood open lever
+BookmarkLevel: 4
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle:  FOOT CONTROLS AND HAND CONTROLS
+BookmarkLevel: 3
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: 1. Operator's seat
+BookmarkLevel: 4
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 2. Seat belt
+BookmarkLevel: 4
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 3. Brake pedal and parking brake lock pedal
+BookmarkLevel: 4
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 3.1 How to use the parking brake
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 4. Range gear shift lever (Hi-Lo)
+BookmarkLevel: 4
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: 5. Front wheel drive lever
+BookmarkLevel: 4
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: 6. Hand accelerator lever
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 7. Speed control pedal
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 8. Speed set device
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 8.1 How to use the speed set device
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: 9. Loader control lever
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle:  ACCESSORY
+BookmarkLevel: 3
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: 1. 12Volt electric outlet
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: 2. Glove box
+BookmarkLevel: 4
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle:  PRE-OPERATION CHECK OF THE TRACTOR
+BookmarkLevel: 2
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle:  DAILY CHECK ITEMS BEFORE OPERATION OF THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle:  PRE-OPERATION CHECK OF THE LOADER
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle:  LUBRICATION BEFORE OPERATING THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle:  CHECKING THE TRANSMISSION FLUID
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle:  WEIGHT OF THE IMPLEMENTS AS THE REAR BALLAST
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: 1. Liquid ballast in the rear tires
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle:  CHECK OF THE TIRE INFLATION BEFORE OPERATING THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle:  PERFORMING THE TEST OPERATION OF THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle:  REMOVING AIR FROM THE HYDRAULIC SYSTEM
+BookmarkLevel: 3
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle:  PRE-OPERATION CHECK OF THE BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle:  CHECKING OF THE BACKHOE BEFORE OPERATION
+BookmarkLevel: 3
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle:  PRE-OPERATING INSTRUCTION OF THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: 1. Check of the operator's seat before operating the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: 2. Check of the ballast before operating the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: 3. Check of the tire inflation before operating the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle:  OPERATING THE ENGINE
+BookmarkLevel: 2
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle:  STARTING THE ENGINE
+BookmarkLevel: 3
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: 1. Cold weather starting of the engine
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: 2. Block heater (option)
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle:  STOPPING THE ENGINE
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle:  WARMING UP OF THE ENGINE
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: 1. Warm-up of the engine and transmission oil in the low temperature range
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle:  JUMP STARTING THE ENGINE
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle:  OPERATING THE TRACTOR
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle:  OPERATION OF NEW TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle:  PRECAUTIONS FOR GETTING ON AND OFF THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle:  OPERATION OF THE FOLDABLE ROPS
+BookmarkLevel: 3
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: 1. Folding the ROPS
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: 2. Raising the ROPS to upright position
+BookmarkLevel: 4
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: 3. Adjusting the foldable ROPS
+BookmarkLevel: 4
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle:  STARTING THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle:  STOPPING THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle:  CHECK DURING DRIVING
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 1. Cases to stop the engine immediately
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 2. Check items during driving
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 2.1 Easy Checker
+BookmarkLevel: 5
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 2.2 Fuel gauge
+BookmarkLevel: 5
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 2.3 Coolant temperature gauge
+BookmarkLevel: 5
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 2.4 Dealing with the overheated coolant temperature
+BookmarkLevel: 5
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 2.5 Hour meter
+BookmarkLevel: 5
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 2.6 Tachometer
+BookmarkLevel: 5
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle:  PARKING THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle:  TECHNIQUES FOR OPERATING THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: 1. Differential lock
+BookmarkLevel: 4
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: 2. Installing the slow-moving-vehicle (SMV) emblem to operate the tractor on a road
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 3. Precautions for operating the tractor on a slopes and rough terrain
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 4. Precautions for transporting the tractor safely
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 5. Directions for use of the power steering
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle:  REVERSING THE OPERATOR'S SEAT
+BookmarkLevel: 3
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle:  PTO (POWER TAKE-OFF)
+BookmarkLevel: 2
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle:  PTO OPERATION
+BookmarkLevel: 3
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: 1. PTO select lever
+BookmarkLevel: 4
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: 2. PTO clutch lever
+BookmarkLevel: 4
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: 3. PTO shaft cover and PTO shaft cap
+BookmarkLevel: 4
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: 4. Using the stationary PTO
+BookmarkLevel: 4
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: 5. PTO drive shaft
+BookmarkLevel: 4
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: 5.1 Adjusting the length of PTO drive shaft
+BookmarkLevel: 5
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle:  3-POINT HITCH AND DRAWBAR
+BookmarkLevel: 2
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle:  OVERVIEW OF 3-POINT HITCH AND DRAWBAR
+BookmarkLevel: 3
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle:  3-POINT HITCH
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 1. Precautions for attaching and detaching the implements to the 3-point hitch
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 2. Adjusting the lifting rod (right)
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 3. Adjusting the top link
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 4. Adjusting the check chains
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle:  HITCH
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 1. How to use the 3-point hitch
+BookmarkLevel: 4
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle:  HYDRAULIC UNIT
+BookmarkLevel: 2
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle:  3-POINT HITCH CONTROL SYSTEM
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 1. Hydraulic control
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 2. Lowering speed of 3-point hitch
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle:  AUXILIARY HYDRAULICS
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: 1. Connecting hoses for the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: 2. Disconnecting hoses for the mower
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle:  MOWER LIFT LINKAGE SYSTEM
+BookmarkLevel: 3
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: 1. Cutting height control dial
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: 2. Hydraulic control unit use reference chart
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle:  TIRES, WHEELS, AND BALLAST
+BookmarkLevel: 2
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle:  TIRES
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 1. Inflation pressure of tires
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 2. Dual tires
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle:  WHEEL TREAD
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 1. Front wheels
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: 2. Rear wheels
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle:  BALLAST
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 1. Front ballast
+BookmarkLevel: 4
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 2. Rear ballast
+BookmarkLevel: 4
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle:  OPERATING THE LOADER
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle:  PRECAUTIONS FOR OPERATING THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle:  TECHNIQUES FOR OPERATING THE LOADER AND THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 1. Filling the bucket
+BookmarkLevel: 4
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 2. Precautions for lifting the load
+BookmarkLevel: 4
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 3. Precautions for carrying the load
+BookmarkLevel: 4
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 4. Dumping and lowering the bucket
+BookmarkLevel: 4
+BookmarkPageNumber: 99
+BookmarkBegin
+BookmarkTitle: 5. Precautions for operating the loader with float control
+BookmarkLevel: 4
+BookmarkPageNumber: 99
+BookmarkBegin
+BookmarkTitle: 6. Loading from a bank
+BookmarkLevel: 4
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: 7. Peeling and scraping the ground
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 8. Loading low trucks or spreaders from a pile
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 9. Backfilling
+BookmarkLevel: 4
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 10. Precautions for handling large heavy objects
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle:  VALVE LOCK
+BookmarkLevel: 3
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle:  BUCKET LEVEL INDICATOR (IF EQUIPPED)
+BookmarkLevel: 3
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle:  HOW TO USE THE QUICK COUPLER
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle:  FRONT REMOTE HYDRAULIC CONTROL SYSTEM (IF EQUIPPED)
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 1. Installing the front remote hydraulic control system
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 2. Operating the control lever
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 3. How to use the remote control coupler
+BookmarkLevel: 4
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle:  FRONT GUARD (OPTION FOR THE QUICK ATTACH COUPLER)
+BookmarkLevel: 3
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: 1. How to use the front guard (if equipped)
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle:  USING THE ATTACHMENTS (IF EQUIPPED)
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: 1. Attaching the attachments (if equipped)
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: 2. Detaching the attachments (if equipped)
+BookmarkLevel: 4
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 3. Performing the maintenance of the attachments (if equipped)
+BookmarkLevel: 4
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 4. Attachments (option for the quick attach coupler)
+BookmarkLevel: 4
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 4.1 Quick bucket (option for the quick attach coupler)
+BookmarkLevel: 5
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 4.2 Snow blade (option for the quick attach coupler)
+BookmarkLevel: 5
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 4.3 Pallet fork (option for the quick attach coupler)
+BookmarkLevel: 5
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 4.3.1 Assembling the pallet fork (option for the quick attach coupler)
+BookmarkLevel: 6
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle:  DISMOUNTING THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle:  OPERATING THE BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle:  ENGINE SPEED WHEN OPERATING THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle:  CONTROLS OF THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: 1. Boom and swing lever
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: 2. Boom and swing lock lever
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 3. Dipperstick and bucket lever
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 4. Stabilizer control levers
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle:  PLACING THE STABILIZER
+BookmarkLevel: 3
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 1. Placing the stabilizer on an unusually steep slope
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle:  GENERAL BACKHOE OPERATION
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 1. Digging with operating the dipperstick
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 2. Dealing with the spoil pile
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 3. Digging straight wall or cemetery
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 4. Stabilizer pads (standard)
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle:  TRANSPORTING OF THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 1. Precautions for driving to the job-site
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: 2. Precautions of the trailer transporting
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle:  MAINTENANCE OF THE TRACTOR
+BookmarkLevel: 2
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle:  SERVICE INTERVALS
+BookmarkLevel: 3
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle:  LUBRICANTS, FUEL, AND COOLANT TABLE
+BookmarkLevel: 3
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 1. Lubricants, fuel, and coolant for North American market
+BookmarkLevel: 4
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 2. Lubricants, fuel, and coolant for other than North American market
+BookmarkLevel: 4
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: 3. Biodiesel fuel (BDF)
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle:  PERIODIC SERVICE OF THE TRACTOR
+BookmarkLevel: 2
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle:  HOW TO OPEN THE FRONT GUARD AND THE HOOD
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle:  DAILY CHECK OF THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: 1. Walk around inspection
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: 2. Checking the fuel gauge and refueling
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: 3. Checking the engine oil level
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 4. Checking the transmission fluid level
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 5. Checking the coolant level
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: 6. Cleaning the panel and the radiator screen
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: 7. Checking the brake pedal
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 8. Checking the gauges, the meters, and the Easy Checker
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 9. Checking the head light, hazard light, and so on
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 10. Checking the seat belt and the ROPS
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 11. Checking and cleaning the electrical wiring and the battery cables
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 12. Checking the movable parts
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 50 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: 1. Lubricate fittings with grease
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 2. Checking the engine start system
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 3. Checking the OPC (operator presence control) system
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: 4. Checking the wheel bolt torque
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: 5. Cleaning the lock lever shaft
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 100 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: 1. Checking of the battery
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: 1.1 Battery charging
+BookmarkLevel: 5
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: 1.2 Dealing with the battery when storing the tractor for a long period
+BookmarkLevel: 5
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: 2. Cleaning the air cleaner element
+BookmarkLevel: 4
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: 3. Checking the fuel filter
+BookmarkLevel: 4
+BookmarkPageNumber: 131
+BookmarkBegin
+BookmarkTitle: 4. Adjusting the fan belt tension
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: 5. Adjusting the HST neutral spring for speed control pedal
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: 6. Adjusting the brake pedal
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 200 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 1. Replacing the engine oil filter
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 2. Changing the engine oil
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 3. Replacing the transmission oil filter
+BookmarkLevel: 4
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 4. Checking the toe-in
+BookmarkLevel: 4
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 4.1 Adjusting the toe-in
+BookmarkLevel: 5
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 400 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: 1. Adjusting the front axle pivot
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: 2. Changing the transmission fluid
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: 3. Cleaning the transmission strainer
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 4. Changing the front axle case oil
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 5. Replacing the fuel filter element
+BookmarkLevel: 4
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 800 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: 1. Adjusting the engine valve clearance
+BookmarkLevel: 4
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 1000 HOURS OR 1 YEAR
+BookmarkLevel: 3
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: 1. Replacing of the air cleaner element
+BookmarkLevel: 4
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 1500 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: 1. Checking the injection pressure of the fuel injection nozzle
+BookmarkLevel: 4
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 2000 HOURS OR 2 YEAR
+BookmarkLevel: 3
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: 1. Flushing the cooling system and changing the coolant
+BookmarkLevel: 4
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: 2. Antifreeze
+BookmarkLevel: 4
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 3000 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 1. Checking the injection pump
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 1 YEAR
+BookmarkLevel: 3
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 1. Checking the radiator hoses and the hose clamps
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 2. Checking the power steering line
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 3. Checking the fuel lines
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 4. Checking the intake air line
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: 5. Checking the engine breather hose
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR EVERY 4 YEAR
+BookmarkLevel: 3
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: 1. Replacing the radiator hose (water pipes)
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 2. Replacing the power steering hose
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 3. Replacing the fuel hose
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 4. Replacing the engine breather hose
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 5. Replacing the intake air line
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE TRACTOR AS REQUIRED
+BookmarkLevel: 3
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 1. Bleeding the fuel system
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 2. Replacing the fuse
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: 3. Replacing the light bulb
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle:  MAINTENANCE OF THE LOADER
+BookmarkLevel: 2
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle:  DAILY CHECKING THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE LOADER EVERY 10 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: 1. Lubricating the loader
+BookmarkLevel: 4
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE LOADER EVERY 20 HOURS TO 30 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: 1. Re-tightening of hardware of the loader
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE LOADER EVERY 50 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: 1. Checking the torque of bolt and nut of the main frame
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle:  MAINTENANCE OF THE BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle:  CHECKING THE BACKHOE DAILY
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE BACKHOE EVERY 10 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 1. Lubricating the backhoe
+BookmarkLevel: 4
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE BACKHOE EVERY 50 HOURS
+BookmarkLevel: 3
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 1. Checking the bolt torque of the sub frame
+BookmarkLevel: 4
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle:  SERVICE OF THE BUCKET
+BookmarkLevel: 3
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 1. Changing the backhoe bucket
+BookmarkLevel: 4
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 2. Service of the bucket teeth
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle:  GENERAL TORQUE SPECIFICATION
+BookmarkLevel: 3
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle:  STORAGE OF THE TRACTOR
+BookmarkLevel: 2
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle:  STORING THE TRACTOR
+BookmarkLevel: 3
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle:  REMOVING THE TRACTOR FROM STORAGE
+BookmarkLevel: 3
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle:  REMOVING THE LOADER
+BookmarkLevel: 2
+BookmarkPageNumber: 151
+BookmarkBegin
+BookmarkTitle:  HOW TO REMOVE THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 151
+BookmarkBegin
+BookmarkTitle:  STORING THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle:  REINSTALLING THE LOADER
+BookmarkLevel: 2
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle:  HOW TO REINSTALL THE LOADER
+BookmarkLevel: 3
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle:  ADJUSTING THE HEIGHT OF THE LIFTING STAND
+BookmarkLevel: 3
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle:  REMOVING THE BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle:  HOW TO REMOVE THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle:  STORING THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle:  REINSTALLING THE BACKHOE
+BookmarkLevel: 2
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle:  HOW TO REMOVE THE BACKHOE
+BookmarkLevel: 3
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle:  TROUBLESHOOTING
+BookmarkLevel: 2
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle:  ENGINE TROUBLESHOOTING
+BookmarkLevel: 3
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle:  OPTIONS
+BookmarkLevel: 2
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle:  OPTION ITEMS
+BookmarkLevel: 3
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: INDEX
+BookmarkLevel: 2
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: KUBOTA Corporation
+BookmarkLevel: 1
+BookmarkPageNumber: 178

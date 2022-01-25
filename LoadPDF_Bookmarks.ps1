@@ -1,0 +1,1 @@
+pdftk.exe 'BX23S Operator Manual K2892-7121-3.pdf' update_info .\bookmarks.txt output 'BX23S Operator Manual K2892-7121-3-Fixed.pdf'
