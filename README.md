@@ -1,5 +1,7 @@
 # BX23S-OperatorManual
 
+**[Click here to get the PDF](https://raw.githubusercontent.com/onetalltree/BX23S-OperatorManual/main/BX23S%20Operator%20Manual%20K2892-7121-3-Fixed.pdf)**
+
 Corrected bookmark definitions for the BX23S Operators Manual, version BX23S Operator Manual K2892-7121-3
 
 Bookmarks can be managed by editing the text file bookmarks.txt
